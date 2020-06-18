@@ -154,6 +154,7 @@
     "prop-types": "^15.7.2",
     "react-dropdown": "^1.7.0",
     "react-tabs": "^3.1.0",
+    "redoc-cli": "^0.9.8",
     "slugify": "^1.4.0",
     "stickyfill": "^1.1.1",
     "swagger2openapi": "^5.3.4",
