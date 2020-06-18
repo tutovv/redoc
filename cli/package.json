@@ -1,7 +1,7 @@
 {
-  "name": "redoc-cli",
-  "version": "0.9.8",
-  "description": "ReDoc's Command Line Interface",
+  "name": "redoc-cli2",
+  "version": "2",
+  "description": "ReDoc's Command Line Interface v2",
   "main": "index.js",
   "bin": "index.js",
   "repository": "https://github.com/Redocly/redoc",
