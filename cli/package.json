@@ -1,5 +1,5 @@
 {
-  "name": "redoc-cli2",
+  "name": "redoc-cli",
   "version": "0.9.8",
   "description": "ReDoc's Command Line Interface",
   "main": "index.js",
