@@ -539,7 +539,7 @@ describe('Utils', () => {
       {
         location: 'header',
         name: 'x-id',
-        description: 'header parameters',
+        description: 'Параметры заголовка',
         cases: [
           {
             value: 5,
