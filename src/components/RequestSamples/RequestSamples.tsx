@@ -26,7 +26,7 @@ export class RequestSamples extends React.Component<RequestSamplesProps> {
     return (
       (hasSamples && (
         <div>
-          <RightPanelHeader> Request samples </RightPanelHeader>
+          <RightPanelHeader> Пример ответа </RightPanelHeader>
 
           <Tabs defaultIndex={0}>
             <TabList hidden={hideTabList}>
@@ -43,8 +43,8 @@ export class RequestSamples extends React.Component<RequestSamplesProps> {
                     <PayloadSamples content={sample.requestBodyContent} />
                   </div>
                 ) : (
-                  <SourceCodeWithCopy lang={sample.lang} source={sample.source} />
-                )}
+                    <SourceCodeWithCopy lang={sample.lang} source={sample.source} />
+                  )}
               </TabPanel>
             ))}
           </Tabs>
